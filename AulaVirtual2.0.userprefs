@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\screen\ClasroomStadistic.cs">
+    <Files>
+      <File FileName="Assets\script\screen\SClassroom\SQuestion.cs" Line="53" Column="1" />
+      <File FileName="Assets\script\screen\Base.cs" Line="13" Column="22" />
+      <File FileName="Assets\script\screen\Home.cs" Line="43" Column="53" />
+      <File FileName="Assets\script\screen\LogIn.cs" Line="25" Column="20" />
+      <File FileName="Assets\script\screen\SClassroom\SCHome.cs" Line="31" Column="1" />
+      <File FileName="Assets\script\screen\ClasroomStadistic.cs" Line="21" Column="4" />
+      <File FileName="Assets\script\util\Util.cs" Line="27" Column="1" />
+      <File FileName="Assets\script\UIBehaviour.cs" Line="16" Column="57" />
+      <File FileName="Assets\script\screen\StateFull.cs" Line="6" Column="29" />
+      <File FileName="Assets\script\util\SimpleJSON.cs" Line="285" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\script\screen\SClassroom\SCHome.cs" line="17" offsetX="1322" offsetY="24" expression="getSession().questionary" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
